@@ -1,0 +1,27 @@
+{
+    "welcome": {
+        "title": "🔥 مرحباً بك في Ultra Master Bot",
+        "subtitle": "أقوى نظام إدارة بوتات متقدم",
+        "select_lang": "الرجاء اختيار لغتك:",
+        "language_selected": "✅ تم اختيار اللغة: العربية"
+    },
+    "menu": {
+        "main": "القائمة الرئيسية",
+        "features": "الميزات",
+        "profile": "الملف الشخصي",
+        "settings": "الإعدادات",
+        "help": "المساعدة",
+        "admin": "لوحة المالك"
+    },
+    "buttons": {
+        "change_lang": "🌐 تغيير اللغة",
+        "start": "🚀 ابدأ الآن",
+        "close": "❌ إغلاق"
+    },
+    "common": {
+        "loading": "⏳ جاري التحميل...",
+        "error": "❌ حدث خطأ",
+        "success": "✅ تم بنجاح",
+        "back": "↩️ رجوع"
+    }
+}
