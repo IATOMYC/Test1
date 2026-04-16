@@ -1,0 +1,27 @@
+{
+    "welcome": {
+        "title": "🔥 Welcome to Ultra Master Bot",
+        "subtitle": "Most Advanced Bot Management System",
+        "select_lang": "Please select your language:",
+        "language_selected": "✅ Language selected: English"
+    },
+    "menu": {
+        "main": "Main Menu",
+        "features": "Features",
+        "profile": "Profile",
+        "settings": "Settings",
+        "help": "Help",
+        "admin": "Owner Panel"
+    },
+    "buttons": {
+        "change_lang": "🌐 Change Language",
+        "start": "🚀 Get Started",
+        "close": "❌ Close"
+    },
+    "common": {
+        "loading": "⏳ Loading...",
+        "error": "❌ Error occurred",
+        "success": "✅ Success",
+        "back": "↩️ Back"
+    }
+}
