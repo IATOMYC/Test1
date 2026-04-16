@@ -1,0 +1,27 @@
+{
+    "welcome": {
+        "title": "🔥 Bienvenido a Ultra Master Bot",
+        "subtitle": "Sistema de Gestión de Bots Más Avanzado",
+        "select_lang": "Por favor seleccione su idioma:",
+        "language_selected": "✅ Idioma seleccionado: Español"
+    },
+    "menu": {
+        "main": "Menú Principal",
+        "features": "Características",
+        "profile": "Perfil",
+        "settings": "Configuración",
+        "help": "Ayuda",
+        "admin": "Panel del Propietario"
+    },
+    "buttons": {
+        "change_lang": "🌐 Cambiar Idioma",
+        "start": "🚀 Comenzar",
+        "close": "❌ Cerrar"
+    },
+    "common": {
+        "loading": "⏳ Cargando...",
+        "error": "❌ Error ocurrido",
+        "success": "✅ Éxito",
+        "back": "↩️ Atrás"
+    }
+}
